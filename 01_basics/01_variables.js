@@ -1,8 +1,8 @@
 const accountId = 144553
 let accountEmail = "hitesh@google.com" //block or local scope
 var accountPassword = "12345" //function or global scope
-accountCity = "Jaipur"
-let accountState;
+accountCity = "Jaipur"; //can do this
+let accountState; //undefined
 
 // accountId = 2 // not allowed
 
